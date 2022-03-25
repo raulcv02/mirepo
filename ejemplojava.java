@@ -4,6 +4,8 @@ public class Cliente {
 	private String nombre;
 	private String especialidad;
 
+
+	//hola raul te observo adios
 	public Cliente(String dni, String nombre, String especialidad) {
 		this.dni = dni;
 		this.nombre = nombre;
